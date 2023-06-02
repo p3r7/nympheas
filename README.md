@@ -1,1 +1,3 @@
 # nympheas
+
+![](./doc/nympheas.gif)
